@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="249348833">
+    <data-source source="LOCAL" name="Rails speakerinnen_liste: development" uuid="8407b338-7b0a-4101-8241-324f5b6b9173">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:speakerinnen_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails speakerinnen_liste: test" uuid="560596da-709b-4298-8383-fb6cbbe0dcf5">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:speakerinnen_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails speakerinnen_liste: production" uuid="7b9d55ca-dfee-4083-80c5-5783bfd5f5bf">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:speakerinnen_development</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
